@@ -1,0 +1,22 @@
+
+  [{
+    "codigo": "00011010",
+    "descripcion": "Chocolate a la taza S/A 100G",
+    "precioA": "9.00",
+    "precioL": "10.00",
+    "codigoB": "7750060003307"
+  },
+  {
+    "codigo": "00012010",
+    "descripcion": "Chocolate a la taza con azucar 100G",
+    "precioA": "10.00",
+    "precioL": "11.00",
+    "codigoB": "7750060003383"
+  },
+  {
+    "codigo": "00072103",
+    "descripcion": "Turrón Selección x3",
+    "precioA": "17.00",
+    "precioL": "18.00",
+    "codigoB": "7750060003604"
+  }]
